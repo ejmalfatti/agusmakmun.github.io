@@ -1,10 +1,10 @@
-title: Stack Problems
+title: Emanuel Malfatti
 description: My Personal Stack Problems
 author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+github: https://github.com/ejmalfatti
+about: Administrador de Sistemas y Software Libre - SysAdmin IPROSS
+disqus_shortname: ejmalfattio
+google_analytics: UA-81176710-1
 avatar_url: /static/img/avatar.jpg
 
 enableTags: true
@@ -17,18 +17,18 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "#"
+      link: "https://www.facebook.com/emanuel.malfatti.583"
     - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
+      link: "https://twitter.com/ejmalfatti"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
+      link: "https://www.linkedin.com/in/ejmalfatti/"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/ejmalfatti"
 
 share:
-  twitter_username: agusmakmun6
+  twitter_username: ejmalfatti
   fb_appid: 1749788565247320
 
 urls:
@@ -39,7 +39,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://ejmalfatti.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
