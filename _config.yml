@@ -39,7 +39,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://ejmalfatti.github.io"
+url: "https://refrigeracionalejandro.com.ar"
 baseurl: ""
 paginate: 20
 per_page: 20
